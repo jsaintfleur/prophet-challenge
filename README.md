@@ -147,4 +147,4 @@ Overall, this analysis equips MercadoLibre with actionable insights into when th
 
 
 ## License
-This project is licensed under the MIT License. For more details, please see the LICENSE file in the repository.
+This project is licensed under the MIT License. For more details, please see the LICENSE (LICENSE) file in the repository.
