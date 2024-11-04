@@ -1,4 +1,4 @@
-# Forecasting Net Prophet
+# Market Trend Analysis and Forecasting for MercadoLibre
 
 I’m a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/about-us), Latin America’s most popular e-commerce site with over 200 million users. In this project, I aimed to investigate if trends in Google search traffic for MercadoLibre could help predict stock price movements. By analyzing search and financial data, I explored whether search interest can serve as an indicator of company growth or stock trading opportunities.
 
