@@ -28,17 +28,16 @@ pip install pandas matplotlib prophet
 ```
 
 ## Usage
-
 To run the analysis:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/jsaintfleur/prophet-challenge.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd <repository-directory>
+    cd prophet-challenge
     ```
 
 3. Open and execute the Jupyter notebook:
@@ -47,6 +46,7 @@ To run the analysis:
     ```
 
 4. Follow along with the code and review the output visualizations to understand the trends and forecasts.
+
 
 
 ## Project Steps and Analysis
